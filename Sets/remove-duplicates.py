@@ -1,4 +1,4 @@
-#If we didn't care about maintaing order:
+#If we didn't care about maintaing order (sets don't maintain order):
 
 def deduped(items):
     """Return new list from items with duplicates removed."""
