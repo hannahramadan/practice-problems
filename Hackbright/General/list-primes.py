@@ -1,6 +1,8 @@
 def list_primes(num):
     """Return list of all primes from 0 to num"""
     
+    # this uses nest for-loops. Not a great solution. 
+    
     if num < 2:
         return []
 
